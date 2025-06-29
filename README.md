@@ -1,6 +1,6 @@
 # 🛡️ Kyle A. – IT & Cybersecurity Projects
 
-Welcome! This repository documents my journey and hands-on experience in the fields of **Networking**, **Cybersecurity**, **Cloud Computing**, and **Web Development**. Below you'll find a breakdown of completed projects, technologies I've explored, and a roadmap of future initiatives I'm excited to dive into.
+Welcome! This repository documents my journey and hands-on experience in the fields of **Networking**, **Cybersecurity**, **Cloud Computing**, and **Web Development**. Below you'll find a breakdown of completed projects, technologies I've explored, and a roadmap of future projects that I'm excited to work on!
 
 ---
 
